@@ -1,0 +1,14 @@
+layout_spectrum: 0.033892138628289104
+typography_spectrum: 0.30445407470688224
+color:
+  brandStrength: 0.12309566861949861
+  lightness: 0.44426874071359634
+  saturation: 0.03524340270087123
+  rhythmicContrast: 0.3650044775567949
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: ambit music
